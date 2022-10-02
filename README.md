@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi, it's Yegor! 👋
 
-<!--
-**SokolOFFF/SokolOFFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently working on improving myself; 
+- 🌱 I am currently learning **backend development on Python**: _Django framework_, _Docker_, _FastAPI_;
+- 🤔 I am looking for help with increasing of experience in **development sphere** since I have only pet-projects :<
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bio 🪐
+Born and grown in Russia, now I am eighteen year old student who still lives in Russia, but travels around it in search of knowledge.
+- 2010 - 2018 : was studying in Liceum #165, Nizhny Novgorod;
+<!--- 2016 - 2018 : was studying in ...-->
+- 2018 - 2021 : was studying in Letovo School, Moscow;
+- 2021 - cur : studing in Innopolis University, Innopolis, Russia.
+
+Besides programming I am interesting in basketball and music (graduated from music school in 2018, currently writing songs for my own). 
+
+## Pet-projects 🦕
+
+### 
+
+
+## Contacts ✉️
+
