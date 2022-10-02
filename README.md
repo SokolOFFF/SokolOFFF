@@ -22,7 +22,7 @@ Fix my English is a tool which shows user academic writing mistakes in his Engli
 _Created in June 2022._
 
 #### [portfolio-site](https://github.com/SokolOFFF/portfolio-site)
-Basicaly, this project is my portfolio site. I created it to get more experience in Django development, since I used this framework as a good tool for developing such kind of projects. Now the project is not deployed since it does not make any sence :>
+Basically, this project is my portfolio site. I created it to get more experience in Django development, since I used this framework as a good tool for developing such kind of projects. Now the project is not deployed since it does not make any sence :>
 
 _Created in September 2022._
 
@@ -40,7 +40,7 @@ I decided to get some experience in creating Telegram bots, so I came up with th
 
 #### [metro-map-application](https://github.com/SokolOFFF/metro-map-application)
 
-This project was created as part of learning Python algorithms in ninth grade at school. Basicaly, it copies the Yandex.Metro application, but on unexisting map. I used Tkinter Python module and Floyd–Warshall algorithm for developing. 
+This project was created as part of learning Python algorithms in ninth grade at school. Basically, it copies the Yandex.Metro application, but on unexisting map. I used Tkinter Python module and Floyd–Warshall algorithm for developing. 
 
 _Created in January 2019, refactored in October 2022._
 
