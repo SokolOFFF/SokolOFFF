@@ -45,4 +45,4 @@ This project was created as part of learning Python algorithms in ninth grade at
 _Created in January 2019, refactored in October 2022._
 
 ## Contacts ✉️
-[![Website](https://img.shields.io/badge/sokolofff-personal%20page-84A9CE?style=for-the-badge)](https://sokolofff.github.io) [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor1sokolov@gmail.com)
+[![Website](https://img.shields.io/badge/sokolofff-personal%20page-84A9CE?style=for-the-badge)](https://sokolofff.github.io) [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor1sokolov@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yegor-sokolov/)
