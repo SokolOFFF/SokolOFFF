@@ -26,7 +26,7 @@ Basically, this project is my portfolio site. I created it to get more experienc
 
 _Created in September 2022._
 
-#### [linear-algebra-helper-bot](https://github.com/SokolOFFF/linear-algebra-helper-bot) and [pikachu-bot](https://github.com/SokolOFFF/pikachu-bot)
+#### [linear-algebra-helper-bot](https://github.com/SokolOFFF/linear-algebra-helper-bot), [pikachu-bot](https://github.com/SokolOFFF/pikachu-bot) and [pikachu-botv2.0](https://github.com/SokolOFFF/pikachu-botv2.0)
 
 Linear-algebra-helper-bot is a Telegram bot which helps student to study Linear Algebra. Moreover, it contains vector and matrix calculators to save student's time.
 
@@ -36,7 +36,11 @@ Pikachu-bot is a Telegram bot which sends random cure pictures on chosen themes.
 
 _Created in February 2022, refactored in October 2022._
 
-I decided to get some experience in creating Telegram bots, so I came up with this ideas and implemented them. However, both are not deployed :<
+Pikachu-botv2.0 is a Telegram bot which is the new version of pikachu-bot but with more features (check [README](https://github.com/SokolOFFF/pikachu-botv2.0#readme) of the project). 
+
+_Created and deployed in January 2023._
+
+I decided to get some experience in creating Telegram bots, so I came up with this ideas and implemented them. However, two of them are not deployed :<
 
 #### [metro-map-application](https://github.com/SokolOFFF/metro-map-application)
 
