@@ -6,7 +6,7 @@
 
 
 ## Bio 🪐
-Born and grown in Russia, now I am eighteen year old student who still lives in Russia, but travels around it in search of knowledge.
+Born and grown in Russia, now I am nineteen year old student who still lives in Russia, but travels around it in search of knowledge.
 - 2010 - 2018 : was studying in Liceum #165, Nizhny Novgorod;
 - 2016 - 2018 : was studying in online format in Programer School, Moscow filial;
 - 2018 - 2021 : was studying in Letovo School, Moscow;
