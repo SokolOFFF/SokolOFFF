@@ -36,7 +36,7 @@ Pikachu-bot is a Telegram bot which sends random cure pictures on chosen themes.
 
 _Created in February 2022, refactored in October 2022._
 
-Pikachu-botv2.0 is a Telegram bot which is the new version of pikachu-bot but with more features (check [README](https://github.com/SokolOFFF/pikachu-botv2.0#readme) of the project). 
+Pikachu-botv2.0 is a [Telegram bot](https://t.me/PicturePikachuBot) which is the new version of pikachu-bot but with more features (check [README](https://github.com/SokolOFFF/pikachu-botv2.0#readme) of the project). 
 
 _Created and deployed in January 2023._
 
