@@ -10,7 +10,7 @@ Born and grown in Russia, now I am nineteen year old student who still lives in 
 - 2010 - 2018 : was studying in Liceum #165, Nizhny Novgorod;
 - 2016 - 2018 : was studying in online format in Programer School, Moscow filial;
 - 2018 - 2021 : was studying in Letovo School, Moscow;
-- 2021 - 2025 : studing in Innopolis University, Innopolis, Russia.
+- 2021 - 2025 : was studing in Innopolis University, Innopolis, Russia.
 
 Besides programming I am interesting in basketball and music (graduated from music school in 2018, currently writing songs for my own). 🎧
 
