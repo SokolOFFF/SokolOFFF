@@ -1,7 +1,7 @@
 ## Hi, it's Yegor! 👋
 
 - 🔭 I am currently working on improving myself; 
-- 🌱 I am currently learning **ML/AI development on Python**: _Scikit-learn_, _PyTorch_, _TensorFlow
+- 🌱 I am currently learning **ML/AI development on Python**: _Scikit-learn_, _PyTorch_, _TensorFlow_
 - 🤔 I have been working as a ML engineer since 2023 in mainly time series predictions, but also in audio generation as a thesis theme. 
 
 
